@@ -1,0 +1,17 @@
+.banner {
+    display: block;
+ 
+    margin: 0;
+    width: 100vw;
+    height: 80vh;
+    position: relative;
+    background: rgb(2,0,36);
+background: linear-gradient(180deg, rgba(2,0,36,0) 0%, rgba(77,59,107,1) 0%, rgba(189,86,86,1) 100%);
+}
+
+.bannerText {
+    position: relative;
+    top: 100px;
+    z-index: 20;
+    text-align: center;
+}
